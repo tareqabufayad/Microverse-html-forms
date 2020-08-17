@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eceef1;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/* ------------------ THE FIRST DIV ------------------- */
+
+.flex-box {
+  display: flex;
+  justify-content: flex-end;
+  padding: 12px 35px;
+  align-items: center;
+}
+
+.account-info {
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.account-info a {
+  color: #0077c5;
+  text-decoration: none;
+}
+
+.sign-in-btn button {
+  background-color: #0077c5;
+  color: white;
+  border: 1px solid #4c4c4c;
+  border-radius: 4px;
+  height: 34px;
+  width: 110px;
+  padding: 0 20px;
+}
+
+.fa-lock {
+  padding-right: 10px;
+}
+
+/* ------------- THE HEADER ------------- */
+
+header div {
+  background-image: url(./imgs/intuit.png);
+  background-position: center;
+  background-size: cover;
+  width: 118px;
+  height: 35px;
+  margin: 25px auto;
+  cursor: pointer;
+}
+
+nav {
+  margin: 0 auto;
+  width: 380px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-links a {
+  display: flex;
+  align-items: center;
+  margin: 0 0 0 10px;
+  color: #706767;
+  text-decoration: none;
+}
+
+.nav-links img {
+  width: 23px;
+  height: 23px;
+  margin: 0 4px 0 0;
+}
+
+/* ---------------------- FORM SECTION -------------------*/
+
+form {
+  width: 380px;
+  margin: 25px auto;
+  background-color: #fff;
+  padding: 30px 30px 0 30px;
+  text-align: center;
+}
+
+form h2 {
+  padding-bottom: 20px;
+  font-weight: lighter;
+}
+
+form p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+form a {
+  color: #0077c5;
+  text-decoration: none;
+}
+
+fieldset {
+  outline: none;
+  border: none;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+label,
+input {
+  display: block;
+}
+
+label {
+  font-size: 14px;
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+input {
+  border: 1px solid #c1c5c8;
+  height: 34px;
+  width: 320px;
+  padding: 0 8px;
+  font-size: 1.2em;
+  border-radius: 3px;
+  line-height: 1.3em;
+  outline: none;
+}
+
+.phone-span {
+  color: #444;
+  padding: 5px 0;
+  font-size: 10px;
+}
