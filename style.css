@@ -199,13 +199,13 @@ footer {
   line-height: 1.5;
 }
 
-footer p a {
+.page-footer a {
   text-decoration: none;
   color: #0077c5;
   margin: 0 10px;
 }
 
-footer p a:hover {
+.page-footer a:hover {
   text-decoration: underline;
   color: #706767;
 }
