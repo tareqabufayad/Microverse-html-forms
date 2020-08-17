@@ -2,7 +2,7 @@
 
 # Mint Form page
 
-> This is a collaborative project which is about cloning a YouTube page.
+> This is a collaborative project which is about creating a Sign Up Form page.
 
 ![screenshot](./imgs/app_screenshot.jpg)
 
