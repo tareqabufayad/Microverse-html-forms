@@ -4,7 +4,7 @@
 
 > This is a collaborative project which is about cloning a YouTube page.
 
-![screenshot](./app_screenshot.jpg)
+![screenshot](./imgs/app_screenshot.jpg)
 
 Additional description about the project and its features.
 
@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://tariqabufayad.github.io/Microverse-html-forms/)
 
 ## Getting Started
 
