@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://tariqabufayad.github.io/Microverse-html-forms/)
+[Live Demo Link](https://tareqabufayad.github.io/Microverse-html-forms/)
 
 ## Getting Started
 
